@@ -1,3 +1,3 @@
 # FS_PortFolio
 
-[Link to Google](https://dapper-granita-aa07f6.netlify.app/)
+[Link to my Portfolio](https://dapper-granita-aa07f6.netlify.app/)
